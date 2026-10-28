@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-qiskit/commit/b03b52f855f551b6a82ee934a89dbc3d3e081cf1",
       "git:hexsha": "b03b52f855f551b6a82ee934a89dbc3d3e081cf1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-qiskit/commit/c46f04a27b0f3c3700246b250c68604dc73788c7",
