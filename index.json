@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "pennylane-qiskit",
+  "versions": [
+    {
+      "commit": "b03b52f855f551b6a82ee934a89dbc3d3e081cf1",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:43:24.191652+00:00"
+    }
+  ]
+}
